@@ -1,0 +1,3 @@
+In Python you can calculate numbers
+In Python you can use array to store data
+In Python you can use lstrip to remove the blank in the left.
